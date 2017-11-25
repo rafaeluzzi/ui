@@ -3,8 +3,8 @@
   "version": "0.21.3",
   "description": "Styleable set of components for React Native applications",
   "dependencies": {
-    "@shoutem/animation": "github:shoutem/animation#6b35a9b13910dc5f71215a7ad5757a06ca3c01a1",
-    "@shoutem/theme": "github:shoutem/theme.git#develop",
+    "@shoutem/animation": "https://github.com/shoutem/animation.git#6b35a9b13910dc5f71215a7ad5757a06ca3c01a1",
+ +  "@shoutem/theme": "https://github.com/shoutem/theme.git#a8c5ded5a246dfd4406faaf4ac7da24892b19977",
     "babel-plugin-transform-decorators-legacy": "~1.3.4",
     "buffer": "^5.0.7",
     "events": "^1.1.1",
